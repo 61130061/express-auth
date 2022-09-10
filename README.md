@@ -4,7 +4,7 @@ Let's learn about security!!
 
 
 ## GOAL
-- [ ] basic web API
+- [x] basic web API
 - [ ] JWT middleware
-- [ ] cookie store
+- [x] cookie store
 - [ ] token refresh
